@@ -20,3 +20,6 @@ Next I wrote true/false conditions that would store those string type into a mas
 I created a for loop that will randomly place characters from the unique "MasterPassword" that was an accumlation of the specified password elements and place that into a string and display the password.
 
 Last but not least I created a CSS style sheet to make the application more user friendly.
+
+Link to web applicatoin: https://sheikb08.github.io/PasswordGenerator/
+Link to repository: https://github.com/sheikb08/PasswordGenerator
