@@ -21,5 +21,7 @@ I created a for loop that will randomly place characters from the unique "Master
 
 Last but not least I created a CSS style sheet to make the application more user friendly.
 
+Please see the pwgenerator.jpg file if you would like a visual.
+
 Link to web applicatoin: https://sheikb08.github.io/PasswordGenerator/
 Link to repository: https://github.com/sheikb08/PasswordGenerator
